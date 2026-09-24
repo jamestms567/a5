@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://messengerelite.com/sitemap.xml

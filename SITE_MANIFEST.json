@@ -1,0 +1,207 @@
+{
+  "domain": "messengerelite",
+  "niche": "Haute Leathercraft & Bespoke Messengerelite",
+  "design_concept": "Urban High-Contrast & Modernist Monochrome",
+  "archetype_id": "urban_high_contrast",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "black_shopper.jpg",
+      "size_kb": 82.89,
+      "md5": "c02cf3b1b0a12231b31cbc07acdeec3f",
+      "description": "Black shopper tote",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "leather_shoes_bag.jpg",
+      "size_kb": 52.0,
+      "md5": "e287b65558cf2d4de5035eba779c0f57",
+      "description": "Leather accessories display",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "editorial_bag.jpg",
+      "size_kb": 97.6,
+      "md5": "1a7f04d4c9094c15889aacc7d9545f62",
+      "description": "Editorial bag",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "yellow_designer_leather_crossbody.jpg",
+      "size_kb": 120.58,
+      "md5": "fca305c7e0e1503e49ed7525700a8db2",
+      "description": "Vibrant mustard designer leather crossbody bag",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "luxury_boutique_handbag_display.jpg",
+      "size_kb": 156.6,
+      "md5": "f492e4e38622e358d9a7d8ec064cdf5e",
+      "description": "Designer handbag collection curated in bespoke glass showcase",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "designer_handbag_hardware_close_up.jpg",
+      "size_kb": 90.95,
+      "md5": "4d493ad79be955a93a55b8d52046192c",
+      "description": "Bespoke gold plated lock mechanism on luxury leather bag",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "messengerelite_asset_7.jpg",
+      "size_kb": 80.14,
+      "md5": "effec024655c3a08611149abb2aeacc0",
+      "description": "1935 45 Prada handbag tooled and g",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "messengerelite_asset_8.jpg",
+      "size_kb": 82.85,
+      "md5": "379cf5edab7ac48621ded31cd021d154",
+      "description": "1935 45 Prada handbag tooled and g",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "messengerelite_asset_9.jpg",
+      "size_kb": 201.27,
+      "md5": "a636d53d604bdacb157f8bdb91da3fbe",
+      "description": "ANTORINI Executive Leather Briefcase",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "messengerelite_asset_10.jpg",
+      "size_kb": 150.87,
+      "md5": "ecbaef515c569aa58e74d481f03f897e",
+      "description": "Handtooled leather handbag Celtic d",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "messengerelite_asset_11.jpg",
+      "size_kb": 165.42,
+      "md5": "f0d38016177dcc6e055cac96718191b3",
+      "description": "Kelly Bag",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "messengerelite_asset_12.jpg",
+      "size_kb": 197.61,
+      "md5": "9986c18dbec593edfc338ea58580d736",
+      "description": "Leather handbag by Les cuirs d Agat",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "messengerelite_asset_13.jpg",
+      "size_kb": 315.68,
+      "md5": "91df76c59dead9d04345039f0704a195",
+      "description": "Red Crocodile Kelly Bag",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "messengerelite_asset_14.jpg",
+      "size_kb": 185.58,
+      "md5": "63ba8abcc0a94bdf284801073d782264",
+      "description": "Shenkar Archive Bag Collection. T",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "messengerelite_asset_15.jpg",
+      "size_kb": 186.02,
+      "md5": "1196e0e26d45f5dc6818532af8694dc0",
+      "description": "Shenkar Archive Bag Collection. T",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "messengerelite_asset_16.jpg",
+      "size_kb": 73.21,
+      "md5": "d5b4b7b7ea956f50e3beb06ab49c50c0",
+      "description": "Tooled leather handbag by N. Raddi",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "messengerelite_asset_17.jpg",
+      "size_kb": 97.4,
+      "md5": "98cce54c234bc1373f2366b9f3716473",
+      "description": "Tooled leather handbag by N. Raddi",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "messengerelite_asset_18.jpg",
+      "size_kb": 76.95,
+      "md5": "167f6f0f1fc483425413c9d7027e45d7",
+      "description": "Bag Classic Braun",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "messengerelite_asset_19.jpg",
+      "size_kb": 129.17,
+      "md5": "d895835a641117a0d94cb60946e7d842",
+      "description": "Bag Classic Schwarz.",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "messengerelite_asset_20.jpg",
+      "size_kb": 37.49,
+      "md5": "bffb7e318ac146410d1920773ba58bfa",
+      "description": "Bag Style Schwarz",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://messengerelite.com/sitemap.xml",
+    "robots": "https://messengerelite.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
